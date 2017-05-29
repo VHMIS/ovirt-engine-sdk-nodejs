@@ -1,14 +1,14 @@
 {
-  "name": "ovirt-nodejs-sdk",
+  "name": "ovirt-engine-sdk-nodejs",
   "version": "0.0.1",
-  "description": "oVirt Nodejs SDK",
+  "description": "Nodejs SDK for oVirt Engine",
   "main": "lib/ovirt.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VHMIS/ovirt-nodejs-sdk.git"
+    "url": "git+https://github.com/VHMIS/ovirt-engine-sdk-nodejs.git"
   },
   "keywords": [
     "sdk",
@@ -17,7 +17,7 @@
   "author": "Le Nhat Anh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VHMIS/ovirt-nodejs-sdk/issues"
+    "url": "https://github.com/VHMIS/ovirt-engine-sdk-nodejs/issues"
   },
-  "homepage": "https://github.com/VHMIS/ovirt-nodejs-sdk#readme"
+  "homepage": "https://github.com/VHMIS/ovirt-engine-sdk-nodejs#readme"
 }
